@@ -15,3 +15,10 @@ git version 2.25.1
 Загружаем последнюю версию Git с сайта 
 https://git-scm.com/download/win
 Устанавливаем с настройками по умолчанию.
+
+## 3. Настройка Git
+Перед первым использованием Git необходимо представиться. Для этого в терминале нужно ввести 2 команды:
+```
+git config --global user.name "Name"
+git config --global user.email "name_mail@mail.ru"
+```
